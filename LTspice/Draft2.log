@@ -1,0 +1,10 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\ULK\Documents\LTspice\Draft2.net
+Start Time: Wed Feb 18 18:34:49 2026
+solver = Normal
+Maximum thread count: 2
+tnom = 27
+temp = 27
+method = trap
+Total elapsed time: 0.000 seconds.
+Don't know how to detect this circuit's steady state.

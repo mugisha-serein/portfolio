@@ -1,0 +1,7 @@
+*
+V§10 N001 0 5
+R1 N001 0 10
+* V(output)
+.tran 1
+.backanno
+.end
